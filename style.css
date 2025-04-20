@@ -1,0 +1,15 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.bor {
+    border: 1px solid black;
+}
+.yuq {
+    background-color: cadetblue;
+
+ }
